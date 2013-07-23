@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GEDictionaryWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+    <int>958</int>
+  </Keys>
+  <Values>
+    <ArrayOfGEItem>
+      <GEItem xsi:type="SellOffer">
+        <playerName>test</playerName>
+        <item>959</item>
+        <totalAmount>1323</totalAmount>
+        <amountTraded>0</amountTraded>
+        <priceEach>69</priceEach>
+        <slot>1</slot>
+        <aborted>false</aborted>
+        <progress>-2</progress>
+        <unNotedId>958</unNotedId>
+      </GEItem>
+    </ArrayOfGEItem>
+  </Values>
+</GEDictionaryWrapper>

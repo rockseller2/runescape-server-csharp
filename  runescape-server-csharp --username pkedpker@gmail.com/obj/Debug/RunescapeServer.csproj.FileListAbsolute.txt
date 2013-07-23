@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\bin\Debug\RunescapeServer.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\bin\Debug\RunescapeServer.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\obj\Debug\RunescapeServer.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\obj\Debug\RunescapeServer.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\Runescape 2 [530] C# Server\obj\Debug\RunescapeServer.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\Runescape 2 [530] C# Server\obj\Debug\RunescapeServer.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\Runescape 2 [530] C# Server\bin\Debug\RunescapeServer.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\Runescape 2 [530] C# Server\bin\Debug\RunescapeServer.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\Runescape 2 [530] C# Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\obj\Debug\RunescapeServer.exe
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\obj\Debug\RunescapeServer.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\bin\Debug\RunescapeServer.exe
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\bin\Debug\RunescapeServer.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\obj\Debug\ResolveAssemblyReference.cache
