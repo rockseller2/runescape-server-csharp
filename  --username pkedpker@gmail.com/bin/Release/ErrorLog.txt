@@ -1,0 +1,12 @@
+1:27:01 PM Monday, October 07, 2013 :
+[MapData][getData]
+Missing map data: 10023
+-------------------------------
+1:27:01 PM Monday, October 07, 2013 :
+[MapData][getData]
+Missing map data: 10024
+-------------------------------
+1:27:01 PM Monday, October 07, 2013 :
+[MapData][getData]
+Missing map data: 10279
+-------------------------------

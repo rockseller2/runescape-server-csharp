@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\bin\Release\wL CS.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\bin\Release\wL CS.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\obj\Release\wL CS.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\obj\Release\wL CS.pdb

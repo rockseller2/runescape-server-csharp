@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GEDictionaryWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+    <int>13982</int>
+    <int>1305</int>
+  </Keys>
+  <Values>
+    <ArrayOfGEItem>
+      <GEItem xsi:type="BuyOffer">
+        <playerName>test</playerName>
+        <item>13982</item>
+        <totalAmount>1</totalAmount>
+        <amountTraded>0</amountTraded>
+        <priceEach>1800000</priceEach>
+        <slot>2</slot>
+        <aborted>false</aborted>
+        <progress>2</progress>
+        <unNotedId>0</unNotedId>
+      </GEItem>
+    </ArrayOfGEItem>
+    <ArrayOfGEItem>
+      <GEItem xsi:type="BuyOffer">
+        <playerName>test</playerName>
+        <item>1305</item>
+        <totalAmount>1</totalAmount>
+        <amountTraded>0</amountTraded>
+        <priceEach>96400</priceEach>
+        <slot>3</slot>
+        <aborted>false</aborted>
+        <progress>2</progress>
+        <unNotedId>0</unNotedId>
+      </GEItem>
+    </ArrayOfGEItem>
+  </Values>
+</GEDictionaryWrapper>
