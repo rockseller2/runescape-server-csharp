@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\obj\Debug\wL CS.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\obj\Debug\wL CS.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\bin\Debug\wL CS.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\bin\Debug\wL CS.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\wL CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\wL CS\obj\Debug\wL CS.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\obj\Debug\wL CS.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\obj\Debug\wL CS.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\obj\Debug\wL CS.pdb
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\bin\Debug\wL CS.exe
+C:\Documents and Settings\Administrator\Desktop\wL CS\server cs\bin\Debug\wL CS.pdb

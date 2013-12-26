@@ -1,0 +1,37 @@
+CREATE TABLE grandExchangeBuying ( 
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    itemId        INTEGER NOT NULL,
+    amount        INTEGER NOT NULL,
+    price         INTEGER NOT NULL,
+    bought        INTEGER NOT NULL,
+    collectedItem INTEGER NOT NULL
+                          DEFAULT ( 0 ),
+    collectedGold INTEGER NOT NULL
+                          DEFAULT ( 0 ),
+    overpaid      INTEGER NOT NULL
+                          DEFAULT ( 0 ),
+    slot          INTEGER NOT NULL,
+    aborted       BOOLEAN NOT NULL
+                          DEFAULT ( 0 ),
+    playerHash    INTEGER NOT NULL,
+    UNIQUE ( slot, playerHash ) 
+);
+
+CREATE TABLE grandExchangeSelling ( 
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    itemId        INTEGER NOT NULL,
+    amount        INTEGER NOT NULL,
+    price         INTEGER NOT NULL,
+    sold          INTEGER NOT NULL,
+    collectedItem INTEGER NOT NULL
+                          DEFAULT ( 0 ),
+    collectedGold INTEGER NOT NULL
+                          DEFAULT ( 0 ),
+    overpaid      INTEGER NOT NULL
+                          DEFAULT ( 0 ),
+    slot          INTEGER NOT NULL,
+    aborted       BOOLEAN NOT NULL
+                          DEFAULT ( 0 ),
+    playerHash    INTEGER NOT NULL,
+    UNIQUE ( slot, playerHash ) 
+);

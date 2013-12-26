@@ -1,0 +1,6 @@
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\bin\Debug\Community.CsharpSqlite.dll.config
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\bin\Debug\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\bin\Debug\Community.CsharpSqlite.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\obj\Debug\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\obj\Debug\Community.CsharpSqlite.pdb

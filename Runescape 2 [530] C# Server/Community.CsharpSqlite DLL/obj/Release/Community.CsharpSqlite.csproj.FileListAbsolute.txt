@@ -1,0 +1,18 @@
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\C# SQLite Port Project\Community.CsharpSqlite\bin\Release\Community.CsharpSqlite.dll.config
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\C# SQLite Port Project\Community.CsharpSqlite\bin\Release\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\C# SQLite Port Project\Community.CsharpSqlite\bin\Release\Community.CsharpSqlite.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\C# SQLite Port Project\Community.CsharpSqlite\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\C# SQLite Port Project\Community.CsharpSqlite\obj\Release\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\C# SQLite Port Project\Community.CsharpSqlite\obj\Release\Community.CsharpSqlite.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\bin\Release\Community.CsharpSqlite.dll.config
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\bin\Release\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\bin\Release\Community.CsharpSqlite.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\obj\Release\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite\obj\Release\Community.CsharpSqlite.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite DLL\bin\Release\Community.CsharpSqlite.dll.config
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite DLL\bin\Release\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite DLL\bin\Release\Community.CsharpSqlite.pdb
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite DLL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite DLL\obj\Release\Community.CsharpSqlite.dll
+C:\Documents and Settings\Igor Stepansky\Desktop\Runescape C#\Runescape 2 [530] C# Server\Community.CsharpSqlite DLL\obj\Release\Community.CsharpSqlite.pdb
