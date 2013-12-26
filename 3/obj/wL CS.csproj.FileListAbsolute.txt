@@ -1,6 +1,0 @@
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\wL CS\wL CS\obj\Release\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\wL CS\wL CS\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\wL CS\wL CS\bin\Debug\wL CS.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\wL CS\wL CS\bin\Debug\wL CS.pdb
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\wL CS\wL CS\obj\Debug\wL CS.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\wL CS\wL CS\obj\Debug\wL CS.pdb
